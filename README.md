@@ -2,7 +2,7 @@
 
 REST API for a collaborative task management app, built with **Node.js, Express, MongoDB and Mongoose**. It handles authentication, task assignment, safe concurrent status updates, and database-level metrics.
 
-> The companion React frontend lives at [Abhishekn1234/tasks_frontend](https://github.com/Abhishekn1234/tasks_frontend).
+
 
 ---
 
